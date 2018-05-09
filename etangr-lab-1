@@ -1,0 +1,6 @@
+'art vandelay'.title()
+'Ceo'.upper()
+'art.vandelay.co'.endswith('.com')
+'www.'+'vandelay.com'
+int('7285553334')+1
+int('7285553334')+2
